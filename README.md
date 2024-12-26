@@ -23,4 +23,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/atg99/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/atg99/LeetCode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/atg99/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/atg99/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
